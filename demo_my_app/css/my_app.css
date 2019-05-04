@@ -1,0 +1,14 @@
+.dataTables_length{
+margin: 2% 2% 2% 0%;
+}
+.dataTables_filter{
+float:right;
+margin-bottom:1%
+}
+.paginate_button{
+border:2px solid #EEEEEE;
+
+}
+.dataTables_paginate:hover{
+    cursor: pointer;
+}
